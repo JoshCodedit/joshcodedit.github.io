@@ -1,0 +1,92 @@
+h1, 
+h2, 
+h3, 
+span,
+p {
+  font-family: "Helvetica", sans-serif;
+}
+
+body img {
+    max-width: 35%;
+    margin-bottom: 200px;
+}
+
+body a {
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+}
+
+body {
+    margin: 0% 10%;
+}
+
+h1 {
+    background-image: url(ubud.jpg);
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: rgb(231, 223, 144);
+    padding: 90px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(253, 244, 159);
+    padding: 15px;
+}
+
+
+
+#option1 h2 {
+    background-color: mediumspringgreen;
+}
+
+#option1, #option3 {
+    margin: 20px auto 20%;
+}
+
+#option1 img, #option3 img {
+    float: left;
+    margin-right: 30px;
+}
+
+#option2 h2, #option4 h2 {
+    background-color: lightcoral;
+    text-align: right;
+}
+
+#option2, #option4 {
+    margin: 20px auto 20%;
+}
+
+#option2 img, #option4 img {
+    float: right;
+    margin-left: 30px;
+}
+
+#option2 p, #option2 h3, #option4 p, #option4 h3 {
+    padding-left: 25%;
+    text-align: right;
+}
+
+#option1 p, #option1 h3, #option2 p, #option2 h3 {
+    padding-right: 25%;
+}
+
+#frames {
+    margin: 40px 0px 40px;
+}
+
+#option3 h2 {
+    background-color: skyblue;
+}
+
+#option4 h2 {
+    background-color: paleturquoise;
+    color: rgb(214, 205, 126);
+}
+
+
+
